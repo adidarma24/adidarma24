@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is ADI and I'm a Full Stack Developer, from Sidoarjo</h2>
 
+![ADI BACKDROP](img/backdrop.png)
+
 ###
 
 <div align="center">
