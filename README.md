@@ -14,7 +14,7 @@
 I'm a passionate developer from **Sidoarjo, Indonesia 🇮🇩**  
 Specializing in modern full-stack development using **Laravel**, **Next.js**, and **WordPress** to build clean, scalable, and high-performance web applications.
 
-- 💼 3+ years experience in Web Development
+- 💼 1 years experience in Web Development
 - 🔭 Currently building dynamic apps with **Laravel Livewire**
 - ⚙️ Exploring the power of **Next.js** for frontend and hybrid apps
 - 🛠️ Creating and managing websites with **WordPress**
