@@ -71,7 +71,7 @@ Specializing in modern full-stack development using **Laravel**, **Next.js**, an
 
 ## 🔍 Featured Projects
 
-- 🎯 [Inventory System Laravel](https://github.com/adidarma24/inventory-system) – Inventory management app built with Laravel 10
+- 🎯 [Inventory System Laravel](https://github.com/adidarma24/inventory-system) – Inventory management app built with Laravel 12
 - 💼 [Next.js Portfolio](https://github.com/adidarma24/nextjs-portfolio) – Developer portfolio using Next.js + TailwindCSS
 - 📝 [WordPress Company Website](https://github.com/adidarma24/wp-company) – Business site template with Elementor + ACF
 
