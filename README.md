@@ -1,43 +1,98 @@
-#### Hi 👋! My name is ADI and I'm a Full Stack Developer, from Sidoarjo
+<!-- Modern GitHub Profile README for Adi with Laravel, Next.js & WordPress focus -->
+
+<h1 align="center">Hi 👋, I'm Adi</h1>
+<h3 align="center">Full Stack Developer | Laravel • Next.js • WordPress</h3>
+
+<p align="center">
+  <img src="img/backdrop.png" alt="ADI BACKDROP" width="100%" />
+</p>
+
 ---
 
-![ADI BACKDROP](img/backdrop.png)
+## 🚀 About Me
 
-#### Skill
+I'm a passionate developer from **Sidoarjo, Indonesia 🇮🇩**  
+Specializing in modern full-stack development using **Laravel**, **Next.js**, and **WordPress** to build clean, scalable, and high-performance web applications.
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</div>
+- 💼 3+ years experience in Web Development
+- 🔭 Currently building dynamic apps with **Laravel Livewire**
+- ⚙️ Exploring the power of **Next.js** for frontend and hybrid apps
+- 🛠️ Creating and managing websites with **WordPress**
+- 📬 Reach me at: **adidarmap@gmail.com**
 
-#### Sosials
+---
 
-<div align="left">
-  <a href="adidarmap@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+## 🛠️ Tech Stack & Tools
+
+### ⚙️ Core Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🧠 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adidarma24&theme=radical&show_icons=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adidarma24&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adidarma24&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="left">
+  <a href="mailto:adidarmap@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adidarmap/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/+6281355643587" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://wa.me/6281355643587" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</div>
-
-#### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adidarma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adidarma24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adidarma24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adidarma24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adidarma24&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adidarma24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 Featured Projects
 
-<br clear="both">
+- 🎯 [Inventory System Laravel](https://github.com/adidarma24/inventory-system) – Inventory management app built with Laravel 10
+- 💼 [Next.js Portfolio](https://github.com/adidarma24/nextjs-portfolio) – Developer portfolio using Next.js + TailwindCSS
+- 📝 [WordPress Company Website](https://github.com/adidarma24/wp-company) – Business site template with Elementor + ACF
 
-<img src="https://raw.githubusercontent.com/adidarma24/adidarma24/output/snake.svg" alt="Snake animation" />
+---
+
+## 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adidarma24/adidarma24/output/snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=adidarma24&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</p>
+
+<!-- Powered by ChatGPT x Adi Dharma -->
