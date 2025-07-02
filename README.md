@@ -44,6 +44,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project Name                  | Technologies Used                       | Link                                           |
+|------------------------------|-----------------------------------------|------------------------------------------------|
+| E-Commerce                   | Laravel, MySQL, Tailwind CSS, Filament  | [View Project](https://github.com/adidarma24/E-Commerce1)|     |
+| Next.js Portfolio Website    | Next.js, React, Tailwind CSS            | [View Project](https://adidharma-portofolio.vercel.app/)|
+| Company Profile WordPress Site | WordPress, Elementor, Custom Theme     | [View Project](#)                              |
+
+---
+
 ## 🌐 Connect with Me
 
 <p>
@@ -81,13 +91,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-- 💼 [Inventory System - Laravel]()
-- 🌐 [Next.js Portfolio Website]()
-- 📝 [Company Profile WordPress Site]()
-
----
 
 
 <!-- END README — Created by Adi Dharma Putra with ✨ and ☕  -->
