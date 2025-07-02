@@ -42,7 +42,6 @@ Specializing in modern full-stack development using **Laravel**, **Next.js**, an
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
@@ -60,11 +59,6 @@ Specializing in modern full-stack development using **Laravel**, **Next.js**, an
 ---
 
 ## 🔗 Let's Connect
-
-<p align="left">
-  <a href="mailto:adidarmap@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/adidarmap/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -89,10 +83,5 @@ Specializing in modern full-stack development using **Laravel**, **Next.js**, an
   <img src="https://raw.githubusercontent.com/adidarma24/adidarma24/output/snake.svg" alt="GitHub Snake" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=adidarma24&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</p>
 
 <!-- Powered by ChatGPT x Adi Dharma -->
