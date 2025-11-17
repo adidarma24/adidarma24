@@ -1,7 +1,7 @@
 <!-- Full Animated Badge README.md for Adi -->
 
 <h1 align="center">Hi there 👋, I'm Adi Dharma Putra</h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Laravel • ⚛️ Next.js • 🌐 WordPress</h3>
+<h3 align="center">🚀 Full Stack Developer | 💡 Laravel • ⚛️ Next.js • 🌐 WordPress • 🟣 .NET/Blazor</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adidarma24/adidarma24/main/img/backdrop.png" width="100%" alt="Adi Backdrop"/>
@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 - 💼 Full Stack Developer from **Sidoarjo, Indonesia 🇮🇩**
-- 🔭 Currently working on Laravel + Next.js projects
+- 🔭 Currently working on Laravel, Wordpress, Next.js & .NET Blazor Projects
 - 🧠 Learning API Security & Headless CMS
 - 🗣️ Always up for tech talks and collaboration
 - 📬 Email me at: **adidarmap@gmail.com**
@@ -26,21 +26,29 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 ### 🎨 Frontend
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
 
 ### 🧠 Backend
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -51,6 +59,7 @@
 | E-Commerce                   | Laravel, MySQL, Tailwind CSS, Filament  | [View Project](https://github.com/adidarma24/E-Commerce1)|     |
 | Next.js Portfolio Website    | Next.js, React, Tailwind CSS            | [View Project](https://adidharma-portofolio.vercel.app/)|
 | AdobtMe                      | Vue.js, Gsap                            | [View Project](https://adobt-me-rouge.vercel.app/)|
+| E-CommerceSoupBlazor | Blazor UI, ASP.NET Core Web API, Docker, ApexCharts | [GitHub Repository](https://github.com/adidarma24/E-CommerceSoupBlazor) |
 
 ---
 
