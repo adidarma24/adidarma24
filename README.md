@@ -59,7 +59,7 @@
 | E-Commerce                   | Laravel, MySQL, Tailwind CSS, Filament  | [View Project](https://github.com/adidarma24/E-Commerce1)|     |
 | Next.js Portfolio Website    | Next.js, React, Tailwind CSS            | [View Project](https://adidharma-portofolio.vercel.app/)|
 | AdobtMe                      | Vue.js, Gsap                            | [View Project](https://adobt-me-rouge.vercel.app/)|
-| E-CommerceSoupBlazor | Blazor UI, ASP.NET Core Web API, Docker, ApexCharts | [GitHub Repository](https://github.com/adidarma24/E-CommerceSoupBlazor) |
+| E-CommerceSoupBlazor | Blazor UI, ASP.NET Core Web API, Docker, ApexCharts | [View Project](https://github.com/adidarma24/E-CommerceSoupBlazor) |
 
 ---
 
